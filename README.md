@@ -29,36 +29,3 @@ This repo collects public resources from trusted SEO experts to support research
 | Matt Diggity | YouTube / LinkedIn | Founder of The Affiliate Lab. Focuses on affiliate SEO, audits, and experiments. | research/youtube-transcripts/matt-diggity/ | research/linkedin-posts/matt-diggity/ | To collect |
 | Cyrus Shepard | YouTube / LinkedIn | Founder of Zyppy and former Moz associate. Known for testing and ranking research. | research/youtube-transcripts/cyrus-shepard/ | research/linkedin-posts/cyrus-shepard/ | To collect |
 
-## How to contribute
-1. Pick an expert from the index.
-2. Add transcripts (plain text or .srt) to the matching folder under research/youtube-transcripts/<expert-slug>/ or LinkedIn post screenshots/notes to research/linkedin-posts/<expert-slug>/.
-3. Update the Status column in this README (or open a small YAML/JSON status file if preferred).
-4. Open a pull request describing the additions (what you added, source links, and filenames).
-
-Suggested file naming for transcripts:
-- neil-patel-2026-06-01-key-topics.txt
-- brian-dean-backlink-strategy-2025-11-12.srt
-
-## Folder structure
-- research/
-  - youtube-transcripts/
-    - neil-patel/
-    - brian-dean/
-    - ...
-  - linkedin-posts/
-    - neil-patel/
-    - brian-dean/
-    - ...
-  - sources.md
-
-Create the subfolders above if they do not yet exist before adding files.
-
-## Status keys
-- To collect — entry defined, assets not yet added.
-- In progress — collecting transcripts or parsing content.
-- Collected ✅ — transcripts and posts added and organized.
-
-## License
-If you'd like others to reuse or contribute, add a LICENSE file (e.g., MIT). If you want, I can add an MIT license in a follow-up commit.
-
-
